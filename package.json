@@ -1,0 +1,8 @@
+{
+  "name": "iabox-widget",
+  "version": "1.0.0",
+  "description": "Widget de IA para qualquer site",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
